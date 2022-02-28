@@ -1,4 +1,4 @@
-package com.example.websocket;
+package com.example.cach;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

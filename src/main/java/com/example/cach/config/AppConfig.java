@@ -1,4 +1,4 @@
-package com.example.websocket.config;
+package com.example.cach.config;
 
 import org.springframework.context.annotation.Configuration;
 
